@@ -1,0 +1,6 @@
+framework module MapleLeaf {
+  umbrella header "MapleLeaf-umbrella.h"
+
+  export *
+  module * { export * }
+}

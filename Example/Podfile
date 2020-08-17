@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MapleLeaf_Example' do
+  pod 'MapleLeaf', :path => '../'
+
+  target 'MapleLeaf_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

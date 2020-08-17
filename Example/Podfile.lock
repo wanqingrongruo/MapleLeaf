@@ -1,0 +1,16 @@
+PODS:
+  - MapleLeaf (0.1.0)
+
+DEPENDENCIES:
+  - MapleLeaf (from `../`)
+
+EXTERNAL SOURCES:
+  MapleLeaf:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MapleLeaf: 31a88c0d50a56cfb31bc1ce9a46e50ef9aff47af
+
+PODFILE CHECKSUM: 9ca1a5a1d5c2c7ed07bce0045f4bcd1cfb3983f8
+
+COCOAPODS: 1.9.3
